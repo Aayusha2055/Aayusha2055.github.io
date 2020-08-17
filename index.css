@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    color: #fff;
+}
+
+.green {
+    color: #66cc99;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #78728c;
+}
+
+.purple {
+    color: #78728c;
+}
+
+.social a {
+    background-color: transparent;
+    color: #fff;
+    width: 50px;
+    height: 40px;
+    margin: 30px 40px 30px -3px;
+    font-size: 20px;
+}
+
+.social .fb:hover {
+    color: #fff;
+    border: 1px solid #4267b2;
+    background-color: #4267b2;
+}
+
+.social .tweet:hover {
+    color: #fff;
+    border: 1px solid #4ab3f4;
+    background-color: #4ab3f4;
+}
+
+.social .g:hover {
+    color: #fff;
+    border: 1px solid #db4437;
+    background-color: #db4437;
+}
+
+body .container-fluid {
+    background-color: #212121;
+}
+
+.container-fluid .col-sm-12 {}
+
+.container-fluid .col-sm-12 h1 {
+    color: #66cc99;
+    letter-spacing: 2px;
+}
+
+strong {
+    color: #78728c;
+}
+
+h5 {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container-fluid .col-sm-12 h1 span {
+    color: #78728c;
+}
+
+.container-fluid .col-sm-12 .nav a,
+h4 {
+    color: #fff;
+}
+
+.container-fluid .col-sm-12 .nav a:hover {
+    color: #78728c;
+    text-decoration: none;
+}
+
+.container-fluid .col-sm-12 .nav .active {
+    color: #78728c;
+}
+
+table tbody tr p {
+    font-size: 12px;
+    color: #abc;
+}
+
+.table-borderless tbody tr {
+    border: 0;
+}
+
+ul li {
+    color: #FFF;
+}
+
+.skills img {
+    width: 50px;
+}
+
+.skills .btn-default {
+    background-color: transparent;
+    border: 0;
+}
+
+.skills .btn-default:hover {
+    background-color: transparent;
+}
